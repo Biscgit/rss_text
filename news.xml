@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+        <channel>
+            <title>CERN Open Data RSS News</title>
+            <link>https://opendata.cern.ch/</link>
+            <description>
+                Latest news from CERN Open Data
+            </description>
+            <language>en</language>
+            
+            <item>
+                <title>ATLAS releases first open data from heavy-ion collisions</title>
+                <link>
+                    https://opendata.cern.ch/docs/atlas-heavy-ion-open-data-for-research-release-2024
+                </link>
+                <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
+                <description>
+                    Author: ATLAS Collaboration
+                    New line :D
+                </description>
+            </item>
+            
+
+            <item>
+                <title>DELPHI Collaboration releases its entire data collection</title>
+                <link>
+                    https://opendata.cern.ch/docs/delphi-data-release-2024
+                </link>
+                <pubDate>Thu, 15 Aug 2024 00:00:00 +0000</pubDate>
+                <description>
+                    Author: DELPHI Collaboration
+                </description>
+            </item>
+            
+
+            <item>
+                <title>ATLAS releases 65 TB of open data for research</title>
+                <link>
+                    https://opendata.cern.ch/docs/atlas-open-data-for-research-release-2024
+                </link>
+                <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
+                <description>
+                    Author: ATLAS Collaboration
+                </description>
+            </item>
+            
+        </channel>
+    </rss>
